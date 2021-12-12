@@ -18,12 +18,7 @@ const Intro = () => {
                 </div>
               </div>
               <p className="i-desc">
-                Recently certified full-stack web developer from the University of Toronto Bootcamp. 
-                Have vast experience in technical hardware and customer service in retail and telecommunications industries. 
-                Possess skills in HTML, CSS, JavaScript, and MERN stack and strengths in problem-solving, attention to detail, and teamwork. 
-                Passionate about approaching programming challenges from different angles and collaborating with others to create meaningful web applications. 
-                I applied aspects of agile development and UX in a recent team project to develop a web app that provides a user-friendly website to create surveys.
-                I’m excited to leverage my skills as part of a fast-paced, quality-driven team to build websites that are mobile-first and responsive.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum illum nemo inventore voluptatem, beatae ex placeat accusamus consequatur praesentium architecto sint libero, eum dignissimos aliquid natus error esse labore facilis.
               </p>
             </div>
               <svg
@@ -94,4 +89,4 @@ const Intro = () => {
 
 export default Intro
 
-/* 17:08 */
+/* 33:17 */
