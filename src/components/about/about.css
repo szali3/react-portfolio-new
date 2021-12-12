@@ -60,6 +60,16 @@
   justify-content: space-between;
 }
 
-.a-award-texts {
+.a-awards-texts {
   width: 70%;
+}
+
+.a-award-title {
+  font-weight: bold;
+  color: red;
+  margin-bottom: 10px;
+}
+
+.a-desc{
+  font-weight: 300;
 }

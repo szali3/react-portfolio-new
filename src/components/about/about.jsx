@@ -33,11 +33,10 @@ const About = () => {
             <h4 className="a-award-title">
               Internation Design Award 2021
             </h4>
-
+            <p className="a-awards-desc">
+              Dolores libero iste reprehenderit cumque. Facilis corrupti fugiat dolore odio autem sequi inventore quam! Adipisci nesciunt iusto delectus possimus accusantium, sequi laudantium?
+            </p>
           </div>
-          <p className="a-awards-desc">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolores libero iste reprehenderit cumque. Facilis corrupti fugiat dolore odio autem sequi inventore quam! Adipisci nesciunt iusto delectus possimus accusantium, sequi laudantium?
-          </p>
         </div>
       </div>
     </div>
