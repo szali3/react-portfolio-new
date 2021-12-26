@@ -64,7 +64,7 @@ input {
   padding-left: 10px;
 }
 
-textarea{
+textarea {
   width: 100%;
   margin: 10px 0px;
   font-size: 14px;
@@ -78,4 +78,15 @@ button {
   background-color: red;
   font-weight: 500;
   cursor: pointer;
+}
+
+.i-img {
+  padding-left: 100px;
+  width: 70%;
+}
+
+@media screen and (max-width: 480px){
+  .c-wrapper {
+    flex-direction: column;
+  }
 }

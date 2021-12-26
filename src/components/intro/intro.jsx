@@ -78,7 +78,7 @@ const Intro = () => {
               </g>
             </svg>
           </div>
-        <div className="i-right">right 
+        <div className="i-right"> 
           <div className="i-bg"></div>
           <img src={me} alt="" className="i-img" />
         </div>
@@ -89,4 +89,4 @@ const Intro = () => {
 
 export default Intro
 
-/* 33:17 */
+/* 1:03:17 */

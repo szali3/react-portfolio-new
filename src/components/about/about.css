@@ -73,3 +73,19 @@
 .a-desc{
   font-weight: 300;
 }
+
+@media screen and (max-width: 480px){
+  .a {
+    flex-direction: column;
+    text-align: center;
+    margin-top: 50px;
+  }
+  /* .i-left-wrapper {
+    padding: 10px;
+    align-items:center;
+    justify-content:center;
+    text-align: center;
+    height: 100%;
+  } */
+}
+
