@@ -7,7 +7,7 @@ function productList() {
     <div className="pl">
       <div className="pl-texts">
         <h1 className="pl-title">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit.
+          Projects
         </h1>
         <p className="pl-desc">
           Lorem ipsum dolor sit, amet consectetur adipisicing elit. Natus dignissimos consequatur incidunt odio iusto quos consequuntur ea obcaecati nesciunt corrupti dolor magni, soluta dolores voluptatum illum temporibus animi ullam eligendi!

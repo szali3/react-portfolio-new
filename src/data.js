@@ -1,32 +1,41 @@
+import Weather from "../src/img/weather-dashboard.png"
+import Survey from "../src/img/survey-donkey.PNG"
+import Blog from "../src/img/techblog.PNG"
+import Chat from "../src/img/chatterbox.png"
+import Redx from "../src/img/redux.png"
+import Book from "../src/img/book.png"
+
+
 export const products = [
+  
   {
     id: 1,
-    img: "https://theartsdevelopmentcompany.org.uk/wp-content/uploads/2019/02/Website-Building-Landscape-1280x640.jpg",
-    link: "",
+    img: Redx,
+    link: "https://redux-store-sza.herokuapp.com/",
   },
   {
     id: 2,
-    img: "",
-    link: "",
+    img: Weather,
+    link: "https://szali3.github.io/Weather-dashboard/",
   },
   {
     id: 3,
-    img: "",
+    img: Survey,
     link: "",
   },
   {
     id: 4,
-    img: "",
-    link: "",
+    img: Blog,
+    link: "https://pacific-basin-47076.herokuapp.com/",
   },
   {
     id: 5,
-    img: "",
+    img: Chat,
     link: "",
   },
   {
     id: 6,
-    img: "",
-    link: "",
+    img: Book,
+    link: "https://quiet-hamlet-81508.herokuapp.com/",
   }
 ]
